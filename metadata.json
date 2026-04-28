@@ -1,0 +1,6 @@
+{
+  "name": "KidCut Pro",
+  "description": "A whimsical yet powerful video editor designed for young creators. Features drag-and-drop sequencing, a pro-style timeline, and fun AI-powered effects.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": []
+}
